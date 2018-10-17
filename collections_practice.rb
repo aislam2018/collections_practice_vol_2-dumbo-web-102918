@@ -64,4 +64,6 @@ def first_wa(arr)
    schools_hash.each do |school, loc|
      binding.pry
      loc.each do |key, val|
+   end
+ end
  end
