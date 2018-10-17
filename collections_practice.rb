@@ -59,4 +59,6 @@ def first_wa(arr)
   end
   ans
  end
- def organize_schools
+ def organize_schools(school_hash)
+   school_hash.each do ||
+ end
