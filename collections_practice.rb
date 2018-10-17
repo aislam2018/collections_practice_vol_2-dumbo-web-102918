@@ -62,5 +62,6 @@ def first_wa(arr)
  def organize_schools(schools_hash)
    organized = {}
    schools_hash.each do |school, loc|
+     binding.pry
      loc.each do |key, val|
  end
