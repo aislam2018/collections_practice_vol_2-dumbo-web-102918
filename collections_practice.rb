@@ -63,6 +63,7 @@ def first_wa(arr)
    organized = {}
    schools_hash.each do |school, loc|
      loc.each do |key, val|
+       if organized[val]
    end
  end
  end
