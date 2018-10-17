@@ -60,7 +60,7 @@ def first_wa(arr)
   ans
  end
  def organize_schools(schools_hash)
-   
+   organized = {}
    schools_hash.each do |school, loc|
      
  end
