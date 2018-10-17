@@ -59,6 +59,8 @@ def first_wa(arr)
   end
   ans
  end
- def organize_schools(school_hash)
-   school_hash.each do ||
+ def organize_schools(schools_hash)
+   
+   schools_hash.each do |school, loc|
+     
  end
